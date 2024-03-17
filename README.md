@@ -10,7 +10,7 @@ Issues with the cascade can be the bane of their existence for many when it come
 
 ## Desired Outcome
 
-![desired outcome](./desired-outcome.png)
+![desired outcome](./part-1/desired-outcome.png)
 
 ### Self Check
 
